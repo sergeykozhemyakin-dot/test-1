@@ -1,14 +1,17 @@
-def print_num():
-    print(8, end='')
-    print(8, end='')
-    print(0, end='')
-    print(0, end='')
-    print(5, end='')
-    print(5, end='')
-    print(5, end='')
-    print(3, end='')
-    print(5, end='')
-    print(3, end='')
-    print(5, end='')
-print_num()
+def test(num):
+    print(num, end='')
+     
+test(8)
+test(8)
+test(0)
+test(0)
+test(5)
+test(5)
+test(5)
+test(3)
+test(5)
+test(3)
+test(5)
 
+
+ 
